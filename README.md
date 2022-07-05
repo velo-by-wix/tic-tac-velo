@@ -9,7 +9,7 @@ In this workshop, you will create a basic version of Tic Tac Toe to explore the 
 
 ## Getting Started
 
-This workshop is based on a pre-designed [template]((https://editor.wix.com/html/editor/web/renderer/new?siteId=72c7b3fd-f542-4767-9335-11d43f701759&metaSiteId=5077a8f1-2276-4aa1-95f1-cb7ad4197772&autoDevMode=true) to get you started.
+This workshop is based on a pre-designed [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=72c7b3fd-f542-4767-9335-11d43f701759&metaSiteId=5077a8f1-2276-4aa1-95f1-cb7ad4197772&autoDevMode=true) to get you started.
 
 **:white_check_mark: Step-by-step instructions**
 
