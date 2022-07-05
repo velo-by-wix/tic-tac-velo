@@ -37,6 +37,6 @@ This workshop is divided into modules. Each module describes what we're going to
 
 ## BONUS: Multiplayer Functionality
 
-Using the Wix-Realtime API, you can make this game work from multiple machines (or windows) simultaneously.
+Using the [Wix-Realtime API](https://www.wix.com/velo/reference/wix-realtime), you can make this game work from multiple machines (or windows) simultaneously.
 
-Hint: You might need help managing your game’s state to make this work.
+Hint: You might need help managing your game’s [state](https://shahata.medium.com/state-management-in-corvid-2ebfa8740abd) to make this work.
