@@ -4,6 +4,8 @@ In this module, you'll learn how to work with Repeaters in Velo.
 
 **:bulb: New concepts**
 - [Repeater](https://www.wix.com/velo/reference/$w/repeater) Editor Element
+- [at](https://www.wix.com/velo/reference/$w/at) Event Context
+- 
 
 
 **:white_check_mark: Step-by-Step Instructions**

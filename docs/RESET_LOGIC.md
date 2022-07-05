@@ -2,10 +2,6 @@
 
 In this module, you'll use logic to determine if and when someone has won the game. You will use that state to show a winner's box.
 
-**:bulb: New concepts**
--
-
-
 **:white_check_mark: Step-by-Step Instructions**
 
 1. The final steps here are to add functionality that resets the board after a game is won, or when the players choose to (usually because of a draw). First, add the following code to the _game-logic.js_ file.

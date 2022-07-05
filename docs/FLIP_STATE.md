@@ -3,7 +3,7 @@
 In this module, you'll use logic to flip the value of the state.
 
 **:bulb: New concepts**
--
+- [Conditional Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
 
 **:white_check_mark: Step-by-Step Instructions**

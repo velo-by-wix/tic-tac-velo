@@ -3,7 +3,7 @@
 In this module, you'll use logic to determine if and when someone has won the game. You will use that state to show a winner's box.
 
 **:bulb: New concepts**
--
+- Show/Hide Interactions
 
 
 **:white_check_mark: Step-by-Step Instructions**
