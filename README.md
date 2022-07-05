@@ -2,6 +2,8 @@
 
 In this workshop, you will create a basic version of Tic Tac Toe to explore the capabilities of Velo. Velo opens up an entire JavaScript web development platform on top of Wix so you can customize your site without additional maintenance headaches or extra hosting costs. If you want to learn more about Velo, check out [our site](https://www.wix.com/Velo/).
 
+![example tic tac toe board](assets/board.png)
+
 **:link: Useful Links**
 
 - [Velo API Reference](https://www.wix.com/velo/reference/) covers all of Velo's APIs.
@@ -29,12 +31,12 @@ This workshop is divided into modules. Each module describes what we're going to
 | [Import backend code](docs/IMPORT_BE.md)           | Learn how to import your backend functionality into your frontend.                    |
 | [Handling a Repeater](docs/HANDLE_REPEATER.md)           | Learn how to work with Repeaters in Velo.                     |
 | [Flipping State](docs/FLIP_STATE.md)           | Using logic, flip the value of the state.                      |
-| [Find the Winner!](docs/WINNER_LOGIC.md)           | Determine who has won the game.                    |
+| [Find the Winner!](docs/FIND_WINNER.md)           | Determine who has won the game.                    |
 | [Reset the board](docs/RESET_LOGIC.md)           | Reset the board so you can play again!                     |
 
 
-## BONUS: Multiplayer Functionality 
+## BONUS: Multiplayer Functionality
 
-Using the Wix-Realtime API, you can make this game work from multiple machines (or windows) simultaneously. 
+Using the Wix-Realtime API, you can make this game work from multiple machines (or windows) simultaneously.
 
 Hint: You might need help managing your game’s state to make this work.
